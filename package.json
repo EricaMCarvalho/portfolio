@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricaMCarvalho/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricaMCarvalho/portfolio/issues"
+  },
+  "homepage": "https://github.com/EricaMCarvalho/portfolio#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
